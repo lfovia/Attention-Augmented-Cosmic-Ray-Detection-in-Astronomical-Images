@@ -1,0 +1,16 @@
+Attention Models DECam CR dataset
+==========================
+
+Usage: https://github.com/lfovia/Cosmic-Ray-Detection-in-Astronomical-Images
+
+Questions regarding the Attention Models DECam CR dataset, please contact ee19resch01008@iith.ac.in.
+
+Licensing of images and data
+============================
+
+To create images with CR hits synthetically, we used 42 dark frames with medium to long exposures times between 90 second to 1200 seconds.
+The exposure numbers we have used are 90, 100, 120, 150, 180, 200, 300, 330, 360, 400, 600, 720, 800 and 1200 seconds.
+
+We used the dark frames post the Science Verification phase. Note that we did not consider any cosmic rays near the edges and visually scanned the cosmic rays in the dark frames to ensure that they do not intersect any bad columns or bad pixels.
+
+

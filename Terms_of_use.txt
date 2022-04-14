@@ -1,6 +1,8 @@
 Attention Models DECam CR dataset
 ==========================
 
+The dataset can be downloaded from 
+
 Usage: https://github.com/lfovia/Cosmic-Ray-Detection-in-Astronomical-Images
 
 Questions regarding the Attention Models DECam CR dataset, please contact ee19resch01008@iith.ac.in.
